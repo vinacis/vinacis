@@ -1,7 +1,7 @@
 url: https://vinacis.com
-status: up
-code: 200
-responseTime: 1852
-lastUpdated: 2021-06-27T23:13:22.873Z
+status: down
+code: 500
+responseTime: 11519
+lastUpdated: 2021-06-28T07:46:02.039Z
 startTime: Fri Mar 26 2021 10:23:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
