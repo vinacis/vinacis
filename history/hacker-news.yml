@@ -1,7 +1,7 @@
 url: https://news.ycombinator.com
-status: up
-code: 200
-responseTime: 187
-lastUpdated: 2022-02-28T23:15:02.996Z
+status: down
+code: 502
+responseTime: 324
+lastUpdated: 2022-03-01T13:34:54.955Z
 startTime: Fri Mar 26 2021 10:32:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
