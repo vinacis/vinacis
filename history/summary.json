@@ -4,7 +4,7 @@
     "url": "https://vinacis.com",
     "icon": "https://favicons.githubusercontent.com/vinacis.com",
     "slug": "vinacis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 63,
     "timeDay": 60,
-    "timeWeek": 68,
+    "timeWeek": 67,
     "timeMonth": 65,
     "timeYear": 64,
     "dailyMinutesDown": {}
