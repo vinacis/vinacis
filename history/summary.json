@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 2844,
     "timeDay": 1980,
-    "timeWeek": 1966,
-    "timeMonth": 2360,
+    "timeWeek": 1959,
+    "timeMonth": 2370,
     "timeYear": 2328,
     "dailyMinutesDown": {}
   },
@@ -48,8 +48,8 @@
     "uptimeYear": "100.00%",
     "time": 350,
     "timeDay": 449,
-    "timeWeek": 330,
-    "timeMonth": 336,
+    "timeWeek": 306,
+    "timeMonth": 332,
     "timeYear": 329,
     "dailyMinutesDown": {}
   },
@@ -84,8 +84,8 @@
     "uptimeYear": "100.00%",
     "time": 62,
     "timeDay": 36,
-    "timeWeek": 46,
-    "timeMonth": 69,
+    "timeWeek": 49,
+    "timeMonth": 70,
     "timeYear": 55,
     "dailyMinutesDown": {}
   },
@@ -112,17 +112,17 @@
     "url": "1.1.1.1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tcp-ping",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 64,
-    "timeDay": 45,
+    "timeDay": 48,
     "timeWeek": 68,
     "timeMonth": 66,
-    "timeYear": 64,
+    "timeYear": 65,
     "dailyMinutesDown": {}
   }
 ]
