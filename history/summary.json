@@ -4,17 +4,17 @@
     "url": "https://vinacis.com",
     "icon": "https://favicons.githubusercontent.com/vinacis.com",
     "slug": "vinacis",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2929,
-    "timeDay": 2187,
-    "timeWeek": 5222,
-    "timeMonth": 3229,
-    "timeYear": 2406,
+    "time": 2937,
+    "timeDay": 4073,
+    "timeWeek": 5327,
+    "timeMonth": 3315,
+    "timeYear": 2415,
     "dailyMinutesDown": {}
   },
   {
@@ -121,7 +121,7 @@
     "time": 65,
     "timeDay": 119,
     "timeWeek": 65,
-    "timeMonth": 71,
+    "timeMonth": 72,
     "timeYear": 65,
     "dailyMinutesDown": {}
   }
