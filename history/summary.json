@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 2617,
     "timeDay": 2011,
-    "timeWeek": 5201,
+    "timeWeek": 5495,
     "timeMonth": 3848,
     "timeYear": 2669,
     "dailyMinutesDown": {}
@@ -22,7 +22,7 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
